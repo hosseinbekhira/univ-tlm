@@ -44,7 +44,7 @@ export default function Books() {
           </h3>
           <ul className="list-books">
             <li className="book">
-              <img src="/book.png" className="img" />
+              <img src="/book.png" className="img" alt="myimage" />
               <a
                 href={myList.book1.myurl}
                 target="_blank"
@@ -55,7 +55,7 @@ export default function Books() {
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" />
+              <img src="/book.png" className="img" alt="myimage" />
               <a
                 href={myList.book2.myurl}
                 target="_blank"
@@ -66,7 +66,7 @@ export default function Books() {
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" />
+              <img src="/book.png" className="img" alt="myimage" />
               <a
                 href={myList.book3.myurl}
                 target="_blank"
@@ -77,7 +77,7 @@ export default function Books() {
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" />
+              <img src="/book.png" className="img" alt="myimage" />
               <a
                 href={myList.book4.myurl}
                 target="_blank"
@@ -88,7 +88,7 @@ export default function Books() {
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" />
+              <img src="/book.png" className="img" alt="myimage" />
               <a
                 href={myList.book5.myurl}
                 target="_blank"
@@ -99,7 +99,7 @@ export default function Books() {
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" />
+              <img src="/book.png" className="img" alt="myimage" />
               <a
                 href={myList.book6.myurl}
                 target="_blank"
