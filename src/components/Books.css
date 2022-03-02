@@ -1,0 +1,39 @@
+.section-books {
+  background-color: #18191a;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.section-books h3 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.section-books .list-books {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.6rem;
+}
+.section-books .list-books .book {
+  background-color: #292a2b;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  transition: all 0.1s ease;
+}
+.section-books .list-books .book:hover {
+  box-shadow: 0px 0px 15px -6px #fff;
+}
+.section-books .list-books .book .img {
+  display: block;
+  width: 290px;
+  height: 300px;
+  margin-bottom: 20px;
+}
+.section-books .list-books .book a {
+  display: block;
+  color: #fff;
+  font-weight: 700;
+}

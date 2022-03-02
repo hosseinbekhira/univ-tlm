@@ -1,0 +1,26 @@
+.nav {
+  background-color: #242526;
+  border-bottom: 0.8px solid rgb(184, 182, 182);
+}
+
+.list-nav {
+  display: flex;
+}
+@media (max-width: 575.98px) {
+  .list-nav {
+    justify-content: center;
+  }
+}
+
+.list-nav .element .target {
+  display: inline-block;
+  color: #fff;
+  padding: 15px 20px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+.list-nav .element .target:hover {
+  background-color: #fff;
+  color: #242526;
+}

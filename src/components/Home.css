@@ -1,0 +1,22 @@
+.home-section {
+  background-color: #18191a;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.home-section .my-title {
+  color: #fff;
+  font-size: calc(1rem + 0.9vw);
+  text-align: center;
+}
+.home-section .bg {
+  background-color: #ffcc00;
+  color: rgb(0, 0, 150);
+  padding: 10px;
+  margin: 20px 0px 40px;
+}
+.home-section .our-p {
+  color: #fff;
+  font-size: calc(1rem + 0.9vw);
+  text-align: justify;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,168 @@
+.main {
+  background-color: #18191a;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/* Start Progress  */
+.main .hedear .progress {
+  background-color: #f6f8fc;
+  padding: 15px 20px;
+  margin-bottom: 20px;
+}
+.main .hedear .progress .cont-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.main .hedear .progress .cont-info h3 {
+  color: #18191a;
+}
+.main .hedear .progress .cont-info .percent {
+  color: #18191a;
+  font-family: tahoma;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.main .hedear .progress .bare {
+  width: 100%;
+  background-color: #a4a5a6;
+  height: 30px;
+  border-radius: 10px 0px 0px 10px;
+}
+.main .hedear .progress .bare .inside {
+  background-color: #ffcc00;
+  height: 100%;
+  width: 0%;
+  border-radius: 10px 0px 0px 10px;
+}
+
+/* Start Template expo section  */
+
+.main .hedear .template-expo {
+  background-color: #f6f8fc;
+  padding: 15px 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.main .hedear .template-expo a {
+  display: inline-block;
+  background-color: #2a2b2c;
+  color: #fff;
+  width: 300px;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 6px 20px;
+  transition: background 0.2s ease;
+}
+@media (max-width: 575.98px) {
+  .main .hedear .template-expo a {
+    display: block;
+    width: 100%;
+  }
+}
+.main .hedear .template-expo a:hover {
+  background-color: #18191a;
+}
+
+/* Start List Expo*/
+
+.main .list-expo {
+}
+.main .list-expo h3 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.main .list-expo .cont-expo {
+}
+.main .list-expo .cont-expo .item {
+  position: relative;
+  margin-bottom: 50px;
+}
+.main .list-expo .cont-expo .item .rank {
+  position: absolute;
+  top: -16px;
+  right: 0px;
+  background-color: #005499;
+  width: 40px;
+  height: 30px;
+  color: #fff;
+  font-weight: 800;
+  font-size: 1rem;
+  text-align: center;
+}
+.main .list-expo .cont-expo .item .date {
+  position: absolute;
+  top: -16px;
+  right: 50px;
+  width: 100px;
+  height: 30px;
+  background-color: #005499;
+  color: #fff;
+  font-weight: 800;
+  font-size: 1rem;
+  text-align: center;
+}
+.main .list-expo .cont-expo .item .state {
+  position: absolute;
+  top: -16px;
+  right: 162px;
+  width: 100px;
+  height: 30px;
+  background-color: #005499;
+  color: #fff;
+  font-weight: 800;
+  font-size: 0.9rem;
+  text-align: center;
+}
+.main .list-expo .cont-expo .item .state.active {
+  background-color: #007969;
+}
+.main .list-expo .cont-expo .item .cont-names {
+  background-color: #f6f8fc;
+}
+.main .list-expo .cont-expo .item .cont-names {
+  display: flex;
+  justify-content: space-between;
+}
+@media (max-width: 575.98px) {
+  .main .list-expo .cont-expo .item .cont-names {
+    flex-direction: column;
+  }
+}
+.main .list-expo .cont-expo .item .cont-names .c-name {
+  padding: 20px 20px 0px;
+}
+@media (max-width: 575.98px) {
+  .main .list-expo .cont-expo .item .cont-names .c-name {
+    margin-bottom: 20px;
+  }
+}
+
+.main .list-expo .cont-expo .item .cont-names .c-name .t-name {
+  color: red;
+  font-weight: 800;
+}
+.main .list-expo .cont-expo .item .cont-names .link a {
+  display: block;
+  background-color: #cd0707;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 27px 10px;
+  line-height: 65px;
+  transition: all 0.1s ease;
+  text-align: center;
+}
+@media (max-width: 575.98px) {
+  .main .list-expo .cont-expo .item .cont-names .link a {
+    padding: 0px 10px;
+    font-size: 1.3rem;
+  }
+}
+.main .list-expo .cont-expo .item .cont-names .link a:hover {
+  background-color: #e20808;
+}
