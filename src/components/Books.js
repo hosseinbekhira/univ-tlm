@@ -1,4 +1,5 @@
 import React from "react";
+import TopScroll from "./TopScroll";
 import "./Books.css";
 
 const myList = {
@@ -44,74 +45,45 @@ export default function Books() {
           </h3>
           <ul className="list-books">
             <li className="book">
-              <img src="/book.png" className="img" alt="myimage" />
-              <a
-                href={myList.book1.myurl}
-                target="_blank"
-                rel="noreferrer"
-                download
-              >
+              <a href={myList.book1.myurl} target="_blank" rel="noreferrer">
+                <img src="/book.png" className="img" alt="myimage" />
                 {myList.book1.mytitle}
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" alt="myimage" />
-              <a
-                href={myList.book2.myurl}
-                target="_blank"
-                rel="noreferrer"
-                download
-              >
+              <a href={myList.book2.myurl} target="_blank" rel="noreferrer">
+                <img src="/book.png" className="img" alt="myimage" />
                 {myList.book2.mytitle}
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" alt="myimage" />
-              <a
-                href={myList.book3.myurl}
-                target="_blank"
-                rel="noreferrer"
-                download
-              >
+              <a href={myList.book3.myurl} target="_blank" rel="noreferrer">
+                <img src="/book.png" className="img" alt="myimage" />
                 {myList.book3.mytitle}
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" alt="myimage" />
-              <a
-                href={myList.book4.myurl}
-                target="_blank"
-                rel="noreferrer"
-                download
-              >
+              <a href={myList.book4.myurl} target="_blank" rel="noreferrer">
+                <img src="/book.png" className="img" alt="myimage" />
                 {myList.book4.mytitle}
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" alt="myimage" />
-              <a
-                href={myList.book5.myurl}
-                target="_blank"
-                rel="noreferrer"
-                download
-              >
+              <a href={myList.book5.myurl} target="_blank" rel="noreferrer">
+                <img src="/book.png" className="img" alt="myimage" />
                 {myList.book5.mytitle}
               </a>
             </li>
             <li className="book">
-              <img src="/book.png" className="img" alt="myimage" />
-              <a
-                href={myList.book6.myurl}
-                target="_blank"
-                rel="noreferrer"
-                download
-              >
+              <a href={myList.book6.myurl} target="_blank" rel="noreferrer">
+                <img src="/book.png" className="img" alt="myimage" />
                 {myList.book6.mytitle}
               </a>
             </li>
           </ul>
         </div>
       </section>
+      <TopScroll />
     </>
   );
 }

@@ -38,7 +38,7 @@
   {
     "id": 5,
     "firstName": "حسناوي عبد الوهاب",
-    "secondName": "",
+    "secondName": "بحث مفرد",
     "titleName": "مسرحية الشهداء يعودون هذا الأسبوع - الجزائر",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=oCwieiE2Hj8",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "firstName": "بوترفاس أنس",
-    "secondName": "بحث منفرد",
+    "secondName": "بحث مفرد",
     "titleName": "مسرحية سماء آخرى - المغرب",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=nlBq3umCYW4",
@@ -84,9 +84,9 @@
     "id": 10,
     "firstName": "",
     "secondName": "",
-    "titleName": "مسرحية عبث - المغرب",
+    "titleName": "مسرحية خراريف - ليبيا",
     "stateExpo": false,
-    "urlPeice": "https://www.youtube.com/watch?v=LAJYHULNVVY&t=9s",
+    "urlPeice": "https://www.youtube.com/watch?v=XqadXf7DtWk",
     "date": "2020-03-15"
   }
   

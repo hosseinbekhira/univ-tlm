@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import TopScroll from "./TopScroll";
 import "./Expo.css";
 
 export default function Expo() {
@@ -42,7 +43,7 @@ export default function Expo() {
             <div className="progress">
               <div className="cont-info">
                 <h3>نسبة التقدم في البحوث</h3>
-                <div className="percent">{getPercent()}%</div>
+                <div className="percent">{getPercent().toString()}%</div>
               </div>
               <div className="bare">
                 <div
@@ -54,7 +55,7 @@ export default function Expo() {
             <div className="template-expo m-title">
               <div>يمكنك تحميل قالب موحد وجاهز لإعداد البحث</div>
               <a
-                href="/template-univ.docx"
+                href="https://docs.google.com/document/d/1_gftUS6jRCXFlifsZAzN4uFjP3EFfjC6/edit?usp=sharing&ouid=100185781254472523311&rtpof=true&sd=true"
                 target="_blank"
                 rel="noreferrer"
                 download
@@ -101,6 +102,7 @@ export default function Expo() {
           </section>
         </div>
       </main>
+      <TopScroll />
     </>
   );
 }
