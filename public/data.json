@@ -74,7 +74,7 @@
   {
     "id": 9,
     "firstName": "بن مغنية وفاء",
-    "secondName": "",
+    "secondName": "بحث مفرد",
     "titleName": "مسرحية عبث - المغرب",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=LAJYHULNVVY&t=9s",
@@ -87,6 +87,15 @@
     "titleName": "مسرحية خراريف - ليبيا",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=XqadXf7DtWk",
+    "date": "2020-03-15"
+  },
+  {
+    "id": 11,
+    "firstName": "رقاقبة حسناء زهرة",
+    "secondName": "",
+    "titleName": "مسرحية قاعة الانتظار - المغرب",
+    "stateExpo": false,
+    "urlPeice": "https://www.youtube.com/watch?v=GN7_h8e22eM",
     "date": "2020-03-15"
   }
   
