@@ -6,7 +6,7 @@
     "titleName": "مسرحية مرض زهيمر - تونس",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=qr1_u3I-drs",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "titleName": "مسرحية جي بي أس - الجزائر",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=aExZ-f_8wJM&t=4641s",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "titleName": "مسرحية خرافة - تونس",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=9hAD5j_xFyY",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "titleName": "مسرحية النمس - المغرب",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=kHTDHiZ50Xw",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "titleName": "مسرحية الشهداء يعودون هذا الأسبوع - الجزائر",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=oCwieiE2Hj8",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "titleName": "مسرحية سماء آخرى - المغرب",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=nlBq3umCYW4",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "titleName": "مسرحية رهين - الجزائر",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=gEmznifVSKM",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "titleName": "مسرحية سماء بيضاء - تونس",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=OMxeftRin-U",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "titleName": "مسرحية عبث - المغرب",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=LAJYHULNVVY&t=9s",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "titleName": "مسرحية خراريف - ليبيا",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=XqadXf7DtWk",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "titleName": "مسرحية قاعة الانتظار - المغرب",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=GN7_h8e22eM",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "titleName": "مسرحية طقوس وحشية - الكويت",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=z3nK0Z9a_dY",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 13,
@@ -114,16 +114,25 @@
     "titleName": "مسرحية احتراق - السودان",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=FgvS9B3d9Yc",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
   },
   {
     "id": 14,
-    "firstName": "",
-    "secondName": "",
+    "firstName": "بصري عبدالحق",
+    "secondName": "سوسي يوسف",
     "titleName": "مسرحية الهواوي قايد النسا - المغرب",
     "stateExpo": false,
     "urlPeice": "https://www.youtube.com/watch?v=Xv1_wmB_kJA",
-    "date": "2020-03-15"
+    "date": "2022-04-12"
+  },
+  {
+    "id": 15,
+    "firstName": "بدي رانيا إناس",
+    "secondName": "بحث مفرد",
+    "titleName": "",
+    "stateExpo": false,
+    "urlPeice": "https://www.youtube.com/watch?v=isoVlgYHpBY",
+    "date": "2022-04-12"
   }
 
   
