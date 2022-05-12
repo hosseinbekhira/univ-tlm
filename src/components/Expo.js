@@ -42,8 +42,8 @@ export default function Expo() {
           <section className="hedear">
             <div className="progress">
               <div className="cont-info">
-                <h3>نسبة التقدم في البحوث</h3>
-                <div className="percent">{getPercent().toString()}%</div>
+                <h3> نسبة التقدم في البحوث </h3>
+                <div className="percent"> {getPercent().toString()} % </div>
               </div>
               <div className="bare">
                 <div
@@ -53,7 +53,7 @@ export default function Expo() {
               </div>
             </div>
             <div className="template-expo m-title">
-              <div>يمكنك تحميل قالب موحد وجاهز لإعداد البحث</div>
+              <div> يمكنك تحميل قالب موحد وجاهز لإعداد البحث </div>
               <a
                 href="https://docs.google.com/document/d/1_gftUS6jRCXFlifsZAzN4uFjP3EFfjC6/edit?usp=sharing&ouid=100185781254472523311&rtpof=true&sd=true"
                 target="_blank"
@@ -65,14 +65,14 @@ export default function Expo() {
             </div>
           </section>
           <section className="list-expo">
-            <h3 className="m-title">قائمة البحوث</h3>
+            <h3 className="m-title"> قائمة البحوث </h3>
             <div className="cont-expo">
               {data &&
                 data.length > 0 &&
                 data.map((item) => (
                   <div className="item" key={item.id}>
-                    <div className="rank">{item.id}</div>
-                    <div className="date">{item.date}</div>
+                    <div className="rank"> {item.id} </div>
+                    <div className="date"> {item.date} </div>
                     <div className={item.stateExpo ? "state active" : "state"}>
                       {item.stateExpo ? "تم التسليم" : "لم يستلم بعد"}
                     </div>
@@ -84,7 +84,7 @@ export default function Expo() {
                         <p className="s-name">
                           {item.secondName ? item.secondName : "لم يحدد بعد"}
                         </p>
-                        <p className="t-name">{item.titleName}</p>
+                        <p className="t-name"> {item.titleName} </p>
                       </div>
                       <div className="link">
                         <a

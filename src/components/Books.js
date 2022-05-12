@@ -33,6 +33,11 @@ const myList = {
       "https://drive.google.com/file/d/1AqENVmpetTOhNtEnTMPiCUjp5rAqAY-k/view?usp=sharing",
     mytitle: "نظرية العرض المسرحى",
   },
+  book7: {
+    myurl:
+      "https://drive.google.com/file/d/1fXkiN4pchePuw1Ob1lMuaXIiEQJjG5vF/view?usp=sharing",
+    mytitle: "استفتاء خاص بالعرض المسرحي",
+  },
 };
 
 export default function Books() {
@@ -78,6 +83,12 @@ export default function Books() {
               <a href={myList.book6.myurl} target="_blank" rel="noreferrer">
                 <img src="/book.png" className="img" alt="myimage" />
                 {myList.book6.mytitle}
+              </a>
+            </li>
+            <li className="book">
+              <a href={myList.book7.myurl} target="_blank" rel="noreferrer">
+                <img src="/book.png" className="img" alt="myimage" />
+                {myList.book7.mytitle}
               </a>
             </li>
           </ul>
