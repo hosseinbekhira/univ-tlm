@@ -49,7 +49,7 @@
     "firstName": "بوترفاس أنس",
     "secondName": "بحث مفرد",
     "titleName": "مسرحية سماء آخرى - المغرب",
-    "stateExpo": false,
+    "stateExpo": true,
     "urlPeice": "https://www.youtube.com/watch?v=nlBq3umCYW4",
     "date": "2022-05-10"
   },
@@ -58,7 +58,7 @@
     "firstName": "تبحار جيلالي",
     "secondName": "بدراوي سليم",
     "titleName": "مسرحية رهين - الجزائر",
-    "stateExpo": false,
+    "stateExpo": true,
     "urlPeice": "https://www.youtube.com/watch?v=gEmznifVSKM",
     "date": "2022-05-10"
   },
@@ -166,7 +166,7 @@
     "firstName": "بكار عبد اللطيف",
     "secondName": "لحسن بن شريف علي",
     "titleName": "مسرحية القراب والصالحين - الجزائر",
-    "stateExpo": false,
+    "stateExpo": true,
     "urlPeice": "https://www.youtube.com/watch?v=Ut6lZoCyUto&t=10s",
     "date": "2022-05-10"
   },
@@ -184,7 +184,7 @@
     "firstName": "بوترفاس رضا",
     "secondName": "بحث مفرد",
     "titleName": "مسرحية خاطيني - الجزائر",
-    "stateExpo": false,
+    "stateExpo": true,
     "urlPeice": "https://www.youtube.com/watch?v=P62wU8MxuKk",
     "date": "2022-05-10"
   },
