@@ -148,7 +148,7 @@
     "firstName": "معسكري حسينة",
     "secondName": "بحث مفرد",
     "titleName": "مسرحية العصافير في قفص - الأردن",
-    "stateExpo": false,
+    "stateExpo": true,
     "urlPeice": "https://www.youtube.com/watch?v=IbiGp4_9Iuc",
     "date": "2022-05-10"
   },
@@ -173,9 +173,9 @@
   {
     "id": 20,
     "firstName": "بوعلي خالد",
-    "secondName": "بحث مفرد",
+    "secondName": "بن براهيم فيصل",
     "titleName": "مسرحية بابور غرق - الجزائر",
-    "stateExpo": false,
+    "stateExpo": true,
     "urlPeice": "https://www.youtube.com/watch?v=owpcSslTgJA",
     "date": "2022-05-10"
   },
@@ -202,7 +202,7 @@
     "firstName": "زكرياء باسعيد",
     "secondName": "بحث مفرد",
     "titleName": "مسرحية العيطة - الجزائر",
-    "stateExpo": false,
+    "stateExpo": true,
     "urlPeice": "https://www.youtube.com/watch?v=KvWMyseu2oc",
     "date": "2022-05-10"
   }            
